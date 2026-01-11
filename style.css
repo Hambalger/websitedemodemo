@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #ffffff;
+  padding: 10px;
+}
+
+h1 {
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 1000;
+    font-size: 100px;
+    text-align: center;
+    color: #ffffff; /*optional */
+    -webkit-text-stroke: 1px black; /*optional outline */
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5); /*outline */
+}
+
